@@ -4,7 +4,7 @@
  *   / __/ / /  / /  __/ / / / /_/ / /_/ /  __/ /_/  __/ /__/ /_/ /_/ / /    
  *  /_/   /_/  /_/\___/_/ /_/\__,_/_____/\___/\__/\___/\___/\__/\____/_/  
  * 
- *  A a program to detect known devices, written for the WiFi Nugget
+ *  A program to detect known devices, written for the WiFi Nugget
  *  github.com/HakCat/FriendDetector
  * 
  *  By Alex Lynd | alexlynd.com
